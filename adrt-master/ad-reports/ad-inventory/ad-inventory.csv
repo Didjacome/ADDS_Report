@@ -1,0 +1,4 @@
+﻿"Name","IPv4Address","LastlogonDate","OperatingSystem","Description"
+"VM-DC-PRD","10.1.0.4","8/26/2022 4:59:11 AM","Windows Server 2022 Datacenter Azure Edition",
+"VM-Application","10.1.0.5","8/26/2022 5:42:13 AM","Windows Server 2019 Datacenter",
+"VM-SQL","10.0.0.5","2/21/2022 7:02:58 PM","Windows Server 2019 Datacenter",

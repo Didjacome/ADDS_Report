@@ -1,0 +1,83 @@
+﻿"Name","MemberOf","Members"
+"Print Operators","",""
+"Pre-Windows 2000 Compatible Access","","CN=S-1-5-11,CN=ForeignSecurityPrincipals,DC=tfteccompany,DC=com,DC=br
+"
+"Performance Monitor Users","",""
+"RDS Endpoint Servers","",""
+"RAS and IAS Servers","",""
+"Protected Users","",""
+"Incoming Forest Trust Builders","",""
+"IIS_IUSRS","","CN=S-1-5-17,CN=ForeignSecurityPrincipals,DC=tfteccompany,DC=com,DC=br
+"
+"Hyper-V Administrators","",""
+"Performance Log Users","",""
+"Network Configuration Operators","",""
+"Key Admins","",""
+"Storage Replica Administrators","",""
+"Server Operators","",""
+"Schema Admins","CN=Denied RODC Password Replication Group,CN=Users,DC=tfteccompany,DC=com,DC=br
+","CN=azadmin,CN=Users,DC=tfteccompany,DC=com,DC=br
+"
+"Windows Authorization Access Group","","CN=S-1-5-9,CN=ForeignSecurityPrincipals,DC=tfteccompany,DC=com,DC=br
+"
+"Users","","CN=Domain Users,CN=Users,DC=tfteccompany,DC=com,DC=br
+CN=S-1-5-11,CN=ForeignSecurityPrincipals,DC=tfteccompany,DC=com,DC=br
+CN=S-1-5-4,CN=ForeignSecurityPrincipals,DC=tfteccompany,DC=com,DC=br
+"
+"Terminal Server License Servers","",""
+"Read-only Domain Controllers","CN=Denied RODC Password Replication Group,CN=Users,DC=tfteccompany,DC=com,DC=br
+",""
+"RDS Remote Access Servers","",""
+"RDS Management Servers","",""
+"Replicator","",""
+"Remote Management Users","",""
+"Remote Desktop Users","",""
+"Cryptographic Operators","",""
+"Cloneable Domain Controllers","",""
+"Certificate Service DCOM Access","",""
+"DnsAdmins","",""
+"Distributed COM Users","",""
+"Denied RODC Password Replication Group","","CN=Read-only Domain Controllers,CN=Users,DC=tfteccompany,DC=com,DC=br
+CN=Group Policy Creator Owners,CN=Users,DC=tfteccompany,DC=com,DC=br
+CN=Domain Admins,CN=Users,DC=tfteccompany,DC=com,DC=br
+CN=Cert Publishers,CN=Users,DC=tfteccompany,DC=com,DC=br
+CN=Enterprise Admins,CN=Users,DC=tfteccompany,DC=com,DC=br
+CN=Schema Admins,CN=Users,DC=tfteccompany,DC=com,DC=br
+CN=Domain Controllers,CN=Users,DC=tfteccompany,DC=com,DC=br
+CN=krbtgt,CN=Users,DC=tfteccompany,DC=com,DC=br
+"
+"Administrators","","CN=Domain Admins,CN=Users,DC=tfteccompany,DC=com,DC=br
+CN=Enterprise Admins,CN=Users,DC=tfteccompany,DC=com,DC=br
+CN=azadmin,CN=Users,DC=tfteccompany,DC=com,DC=br
+"
+"Account Operators","",""
+"Access Control Assistance Operators","",""
+"Cert Publishers","CN=Denied RODC Password Replication Group,CN=Users,DC=tfteccompany,DC=com,DC=br
+",""
+"Backup Operators","",""
+"Allowed RODC Password Replication Group","",""
+"Enterprise Read-only Domain Controllers","",""
+"Enterprise Key Admins","",""
+"Enterprise Admins","CN=Denied RODC Password Replication Group,CN=Users,DC=tfteccompany,DC=com,DC=br
+CN=Administrators,CN=Builtin,DC=tfteccompany,DC=com,DC=br
+","CN=azadmin,CN=Users,DC=tfteccompany,DC=com,DC=br
+"
+"Guests","","CN=Domain Guests,CN=Users,DC=tfteccompany,DC=com,DC=br
+CN=Guest,CN=Users,DC=tfteccompany,DC=com,DC=br
+"
+"Group Policy Creator Owners","CN=Denied RODC Password Replication Group,CN=Users,DC=tfteccompany,DC=com,DC=br
+","CN=azadmin,CN=Users,DC=tfteccompany,DC=com,DC=br
+"
+"Event Log Readers","",""
+"Domain Computers","",""
+"Domain Admins","CN=Denied RODC Password Replication Group,CN=Users,DC=tfteccompany,DC=com,DC=br
+CN=Administrators,CN=Builtin,DC=tfteccompany,DC=com,DC=br
+","CN=azadmin,CN=Users,DC=tfteccompany,DC=com,DC=br
+"
+"DnsUpdateProxy","",""
+"Domain Users","CN=Users,CN=Builtin,DC=tfteccompany,DC=com,DC=br
+",""
+"Domain Guests","CN=Guests,CN=Builtin,DC=tfteccompany,DC=com,DC=br
+",""
+"Domain Controllers","CN=Denied RODC Password Replication Group,CN=Users,DC=tfteccompany,DC=com,DC=br
+",""

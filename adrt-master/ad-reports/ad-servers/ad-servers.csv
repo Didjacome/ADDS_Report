@@ -1,0 +1,4 @@
+﻿"Name","OperatingSystem","Description"
+"VM-DC-PRD","Windows Server 2022 Datacenter Azure Edition",
+"VM-Application","Windows Server 2019 Datacenter",
+"VM-SQL","Windows Server 2019 Datacenter",

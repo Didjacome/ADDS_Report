@@ -1,0 +1,12 @@
+[0] Start Array
+# - - - - - - - - - - - - - - - - - - - - - #
+# Warning:                                  #
+# Do not remove any lines from this file.   #
+#                                           #
+#                                           #
+# Company Name                              #
+Solo Network
+# Owner/Analyst                             #
+Diogo Jacome
+#                                           #
+# - - - - - - - - - - - - - - - - - - - - - #
